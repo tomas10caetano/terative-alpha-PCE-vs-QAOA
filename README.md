@@ -30,12 +30,6 @@ on 10- and 15-node graphs:
 | Standard PCE | 4 | fixed | COBYLA |
 | Iterative-α PCE | 4 | progressive (Alg. 1) | COBYLA + warm restart |
 
-[breve explicação do encoding: nós → correlações de Pauli XX/YY/ZZ, 
-3·C(m,2) ≥ n_nodes]
-
-## Repository structure
-[lista dos ficheiros: notebook, relatório, etc.]
-
 ## Reference
 Padín-Martínez et al. (2026), arXiv:2602.17479 — the PCE method this 
 work benchmarks and extends.
