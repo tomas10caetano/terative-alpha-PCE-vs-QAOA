@@ -28,7 +28,7 @@ on 10- and 15-node graphs:
 |---|---|---|---|
 | QAOA | 15 | — | COBYLA |
 | Standard PCE | 4 | fixed | COBYLA |
-| Iterative-α PCE | 4 | progressive (Alg. 1) | COBYLA + warm restart |
+| Iterative-α PCE | 4 | progressive (Alg. 1) | COBYLA |
 
 ## Reference
 Padín-Martínez et al. (2026), arXiv:2602.17479 — the PCE method this 
